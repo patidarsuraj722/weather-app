@@ -1,1 +1,3 @@
-# weather-app
+---
+permalink: /index.html
+---
